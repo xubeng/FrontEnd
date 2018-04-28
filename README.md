@@ -8,5 +8,6 @@ FrontEnd Page（前端专栏）
 4 异步和单线程
 5 函数
 6 原型和原型链
+7 ES6
 English Contents And Links In Medium.com
 
