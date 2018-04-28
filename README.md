@@ -4,6 +4,6 @@ FrontEnd Page（前端专栏）
   
 1 datatype 数据类型
 2 DOM
-3 基本API
+3 基本API Basic API
 English Contents And Links In Medium.com
 
