@@ -1,5 +1,8 @@
 
- <div align="right">![专栏封面](https://github.com/xubeng/FrontEnd/blob/master/专栏封面.jpg "专栏封面")
+ <div align="center">
+ 
+ 
+ ![专栏封面](https://github.com/xubeng/FrontEnd/blob/master/专栏封面.jpg "专栏封面")
 
 
 ![License](https://img.shields.io/github/license/mashape/apistatus.svg "license")       ![Language](https://img.shields.io/github/languages/top/badges/shields.svg)
