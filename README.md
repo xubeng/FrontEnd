@@ -1,10 +1,11 @@
 
+ <div align="right">
  ![专栏封面](https://github.com/xubeng/FrontEnd/blob/master/专栏封面.jpg "专栏封面")
-<center>
+
 
 ![License](https://img.shields.io/github/license/mashape/apistatus.svg "license")       ![Language](https://img.shields.io/github/languages/top/badges/shields.svg)
 
-</center>
+</div>
 <br>
 # FrontEnd
 FrontEnd Page（前端专栏）
