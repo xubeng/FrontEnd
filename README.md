@@ -1,4 +1,4 @@
-![GitHub](https://avatars2.githubusercontent.com/u/3265208?v=3&s=100 "GitHub,Social Coding")
+![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 <br>
 # FrontEnd
 FrontEnd Page（前端专栏）
