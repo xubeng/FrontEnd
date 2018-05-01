@@ -1,5 +1,4 @@
-![License](https://img.shields.io/github/license/mashape/apistatus.svg "license")       
-![Language](https://img.shields.io/github/languages/top/badges/shields.svg)
+![License](https://img.shields.io/github/license/mashape/apistatus.svg "license")       ![Language](https://img.shields.io/github/languages/top/badges/shields.svg)
 <br>
 # FrontEnd
 FrontEnd Page（前端专栏）
