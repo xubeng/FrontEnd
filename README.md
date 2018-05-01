@@ -1,4 +1,5 @@
-![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg "license")
+![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg "license")       
+![ss](https://img.shields.io/github/languages/top/badges/shields.svg)
 <br>
 # FrontEnd
 FrontEnd Page（前端专栏）
