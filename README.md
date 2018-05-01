@@ -1,4 +1,4 @@
-
+<center>
 
  ![专栏封面](https://github.com/xubeng/FrontEnd/blob/master/专栏封面.jpg "专栏封面")
 
