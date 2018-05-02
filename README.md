@@ -9,9 +9,8 @@
 
 </div>
 <br>
-# FrontEnd
-FrontEnd Page（前端专栏）
-  目录
+
+前端专栏目录
   
 1 datatype 数据类型<br>
 2 DOM <br>
@@ -20,5 +19,7 @@ FrontEnd Page（前端专栏）
 5 函数 <br>
 6 原型和原型链 <br>
 7 ES6 <br>
+
+FrontEnd Page<br>
 English Contents And Links In Medium.com
 
