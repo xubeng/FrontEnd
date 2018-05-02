@@ -13,12 +13,12 @@
 FrontEnd Page（前端专栏）
   目录
   
-1 datatype 数据类型
-2 DOM
-3 基本API Basic API
-4 异步和单线程
-5 函数
-6 原型和原型链
-7 ES6
+1 datatype 数据类型<br>
+2 DOM <br>
+3 基本API Basic API <br>
+4 异步和单线程 <br>
+5 函数 <br>
+6 原型和原型链 <br>
+7 ES6 <br>
 English Contents And Links In Medium.com
 
